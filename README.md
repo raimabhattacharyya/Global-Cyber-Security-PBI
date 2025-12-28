@@ -1,1 +1,3 @@
 # Global-Cyber-Security-PBI
+This project leverages Power BI to analyze global cybersecurity incidents (2015–2024). Using a dataset of 3,000 records covering attack types, industries, vulnerabilities, financial loss, and defense strategies, the dashboard provides a comprehensive view of evolving cyber risks. Key insights include the rise of ransomware and phishing, financial losses concentrated in IT and finance, and improvements in resolution time due to AI-based defenses. The Power BI solution empowers businesses, governments, and researchers to track patterns, identify vulnerabilities, and strengthen cybersecurity strategies.
+Project Link: https://drive.google.com/drive/folders/1YSpZDXu27l9EaV0iESzaCX7qIUl2LKWy?usp=sharing
